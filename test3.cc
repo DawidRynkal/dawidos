@@ -1,4 +1,5 @@
-#include <omp.h>
+
+2222222222222222#include <omp.h>
 #include <iostream>
 #include <thread>
 using namespace std;
